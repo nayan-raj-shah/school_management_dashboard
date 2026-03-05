@@ -1,5 +1,7 @@
 # School Management Dashboard
 
+Live Url [https://schoolmanagementdashboard-five.vercel.app](https://schoolmanagementdashboard-five.vercel.app)
+
 ## Getting Started
 
 First, run the development server:
